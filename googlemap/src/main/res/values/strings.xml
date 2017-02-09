@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapLib</string>
+    <string name="google_api_key">AIzaSyCBQnfoTmruzCnz_5H5g3WpP11rbcMfbxo</string>
+    <string name="formatted_place_data">place data</string>
+</resources>
